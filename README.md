@@ -6,7 +6,7 @@ Based upon vCard 4 and CardDAV standards
 
 *Use with #humhub-dav*
 
-*Donations welcome to support our development https://olan.uk/*
+*Donations welcome to support our development https://olan.uk/donate*
 
 **Roadmap**
 
