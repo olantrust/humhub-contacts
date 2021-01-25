@@ -8,9 +8,9 @@ Based upon vCard 4 and CardDAV standards
 Use with #humhub-dav
 
 
-*Roadmap*
+**Roadmap**
 
-1.0   
+***1.0***
 
 Creation of 1 addressbook per Space
 Creation of 1 addressbook per User profile
